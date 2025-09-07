@@ -42,8 +42,8 @@ The guide includes:
 ---
 
 ## 📜 License
-This documentation is provided under the **MIT License**.  
-You are free to use, share, and adapt with attribution.  
+© 2025 Angelia McDoanld. All rights reserved.
+This work may not be copied, modified, or distributed without explicit permission.
 
 ---
 
